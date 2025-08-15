@@ -42,7 +42,7 @@ On Windows (Laragon) ensure the PHP used by the web server/CLI has PDO and the c
 1. Clone the repository and enter the project folder:
 
 ```bash
-git clone <repo-url> ProjetoTeste
+git clone <https://github.com/SavioFagundes/projetohfa.git> ProjetoTeste
 cd ProjetoTeste
 ```
 
